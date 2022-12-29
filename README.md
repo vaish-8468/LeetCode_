@@ -9,6 +9,7 @@
 |299|[ Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[C++](./solutions/299.%20Bulls%20and%20Cows.cpp)|9 ms|
 |338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](./solutions/338.%20Counting%20Bits.cpp)|6 ms|
 |342|[ Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./solutions/342.%20Power%20of%20Four.cpp)|3 ms|
+|461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./solutions/461.%20Hamming%20Distance.cpp)|0 ms|
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[C++](./solutions/575.%20Distribute%20Candies.cpp)|272 ms|
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[C++](./solutions/658.%20Find%20K%20Closest%20Elements.cpp)|104 ms|
 |898|[ Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[C++](./solutions/898.%20Bitwise%20ORs%20of%20Subarrays.cpp)|1739 ms|
