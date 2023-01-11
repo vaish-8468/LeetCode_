@@ -27,5 +27,6 @@
 |982|[ Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)|[C++](./solutions/982.%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.cpp)|638 ms|
 |1200|[ Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[C++](./solutions/1200.%20Minimum%20Absolute%20Difference.cpp)|144 ms|
 |1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[C++](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.cpp)|10 ms|
+|1443|[ Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[C++](./solutions/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.cpp)|157 ms|
 |1720|[ Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[C++](./solutions/1720.%20Decode%20XORed%20Array.cpp)|40 ms|
 |1753|[ Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/)|[C++](./solutions/1753.%20Maximum%20Score%20From%20Removing%20Stones.cpp)|130 ms|
