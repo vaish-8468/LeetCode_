@@ -8,7 +8,7 @@
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[C++](./solutions/15.%203Sum.cpp)|N/A|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./solutions/42.%20Trapping%20Rain%20Water.cpp)|28 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|319 ms|
-|56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./solutions/56.%20Merge%20Intervals.cpp)|N/A|
+|56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./solutions/56.%20Merge%20Intervals.cpp)|201 ms|
 |78|[ Subsets](https://leetcode.com/problems/subsets/)|[C++](./solutions/78.%20Subsets.cpp)|7 ms|
 |100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[C++](./solutions/100.%20Same%20Tree.cpp)|3 ms|
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./solutions/128.%20Longest%20Consecutive%20Sequence.cpp)|323 ms|
