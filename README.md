@@ -21,6 +21,7 @@
 |299|[ Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[C++](./solutions/299.%20Bulls%20and%20Cows.cpp)|9 ms|
 |338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](./solutions/338.%20Counting%20Bits.cpp)|6 ms|
 |342|[ Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./solutions/342.%20Power%20of%20Four.cpp)|3 ms|
+|392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./solutions/392.%20Is%20Subsequence.cpp)|4 ms|
 |461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./solutions/461.%20Hamming%20Distance.cpp)|0 ms|
 |477|[ Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[C++](./solutions/477.%20Total%20Hamming%20Distance.cpp)|37 ms|
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[C++](./solutions/575.%20Distribute%20Candies.cpp)|272 ms|
