@@ -33,6 +33,7 @@
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[C++](./solutions/575.%20Distribute%20Candies.cpp)|272 ms|
 |581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)|32 ms|
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[C++](./solutions/658.%20Find%20K%20Closest%20Elements.cpp)|104 ms|
+|704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[C++](./solutions/704.%20Binary%20Search.cpp)|47 ms|
 |724|[ Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[C++](./solutions/724.%20Find%20Pivot%20Index.cpp)|33 ms|
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[C++](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.cpp)|9 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C++](./solutions/876.%20Middle%20of%20the%20Linked%20List.cpp)|2 ms|
