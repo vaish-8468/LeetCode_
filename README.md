@@ -43,6 +43,7 @@
 |898|[ Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[C++](./solutions/898.%20Bitwise%20ORs%20of%20Subarrays.cpp)|1739 ms|
 |916|[ Word Subsets](https://leetcode.com/problems/word-subsets/)|[C++](./solutions/916.%20Word%20Subsets.cpp)|N/A|
 |982|[ Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)|[C++](./solutions/982.%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.cpp)|638 ms|
+|994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./solutions/994.%20Rotting%20Oranges.cpp)|15 ms|
 |1200|[ Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[C++](./solutions/1200.%20Minimum%20Absolute%20Difference.cpp)|144 ms|
 |1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[C++](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.cpp)|10 ms|
 |1443|[ Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[C++](./solutions/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.cpp)|157 ms|
