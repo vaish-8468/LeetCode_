@@ -11,6 +11,7 @@
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./solutions/42.%20Trapping%20Rain%20Water.cpp)|28 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|319 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./solutions/56.%20Merge%20Intervals.cpp)|201 ms|
+|70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./solutions/70.%20Climbing%20Stairs.cpp)|0 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./solutions/75.%20Sort%20Colors.cpp)|3 ms|
 |78|[ Subsets](https://leetcode.com/problems/subsets/)|[C++](./solutions/78.%20Subsets.cpp)|7 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./solutions/98.%20Validate%20Binary%20Search%20Tree.cpp)|15 ms|
